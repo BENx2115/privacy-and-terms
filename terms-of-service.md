@@ -1,5 +1,7 @@
 <h1 class="text-center">Terms of Service</h1>
 
+<p><strong>Effective Date: 26-08-2022</strong></p>
+
 <h3>Accepting These Terms</h3>
 <p>By inviting the bot and using its features, you agree to the Terms and Privacy Policy outlined below. You acknowledge the privilege to freely use the bot on any Discord Server you share with it. However, this privilege may be revoked if you violate the bot's terms or policies, or if you violate Discord Inc.'s Terms of Service, Privacy Policy, and/or Community Guidelines.</p>
 
