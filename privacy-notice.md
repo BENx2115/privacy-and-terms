@@ -1,6 +1,6 @@
 <h1 class="text-center">Privacy Policy</h1>
 
-<p><strong>Effective Date: 26-08-2022</strong></p>
+<p><strong>Effective Date: 25-11-2023</strong></p>
 
 <h3>Your privacy is important to us</h3>
 
