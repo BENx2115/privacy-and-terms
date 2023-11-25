@@ -10,6 +10,7 @@
 <p>While using RGB Music, we may collect certain personally identifiable information to enhance your experience. The personal information collected depends on your interactions and may include, but is not limited to:</p>
 <ul>
   <li>Public Discord Account Information</li>
+  <li>Messages sent in the request system are briefly stored for further processing</li>
 </ul>
 
 <h2 id="UOYPD">Use of Your Personal Data</h2>
