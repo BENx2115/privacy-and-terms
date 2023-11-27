@@ -32,7 +32,7 @@
 <p>Our Service may contain links to external sites not operated by us. We recommend reviewing the privacy policies of every site you visit, as we have no control over their content or practices.</p>
 
 <h2 id="CP">Children's Privacy</h2>
-<p>Our Service is not intended for users under the age of 13. We do not knowingly collect information from anyone under 13. If you are a parent and discover your child has provided us with personal data, please contact us. We take steps to remove such information.</p>
+<p>Our Service is not intended for users under the minimum age specified in <a href="https://discord.com/terms">Discord's Terms of Service.</a>. We do not knowingly collect information from anyone under the minimum age. If you are a parent and discover your child has provided us with personal data, please contact us. We take steps to remove such information.</p>
 
 <h2 id="CTTPP">Changes to this Privacy Policy</h2>
 <p>We may update this Privacy Policy from time to time. The updated version will be effective when accessible. We may notify you of material changes by posting a notice or sending a direct notification. Please review this Privacy Policy frequently to stay informed of how we protect your information.</p>
