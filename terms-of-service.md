@@ -15,4 +15,4 @@
 <p>The owner of the bot cannot be held liable for individuals breaking these Terms. The owner trusts users to provide truthful information and not misuse the bot or Discord Inc.'s services maliciously. We reserve the right to update these terms at our discretion, providing a 1-week (7 days) period for you to opt out if you disagree with the changes. Opt-out by removing the bot from any server you have the rights for.</p>
 
 <h3>Contact Us</h3>
-<p>If you have any questions about this Privacy Policy, you can contact us by visiting our support server: <a href="https://discord.gg/nXbRcNv">discord.gg/nXbRcNv</a></p>
+<p>If you have any questions about this Terms of Service, you can contact us by visiting our support server: <a href="https://discord.gg/nXbRcNv">discord.gg/nXbRcNv</a></p>
