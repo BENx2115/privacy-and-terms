@@ -4,10 +4,10 @@
 
 <h3>Your privacy is important to us</h3>
 
-<p>This Privacy Policy explains how RGB Music ("Us", "We" or "Our") respects and protects your privacy when you use our Discord music bot. It outlines the information we may collect, how we use it, and under what circumstances we may share it with third parties. By using RGB Music, you agree to the terms of this Privacy Policy.</p>
+<p>This Privacy Policy explains how RGB Music/Public Bot ("Us", "We" or "Our") respects and protects your privacy when you use our Discord music bot. It outlines the information we may collect, how we use it, and under what circumstances we may share it with third parties. By using RGB Music/Public Bot, you agree to the terms of this Privacy Policy.</p>
 
 <h2 id="PersonalData">Personal Data</h2>
-<p>While using RGB Music, we may collect certain personally identifiable information to enhance your experience. The personal information collected depends on your interactions and may include, but is not limited to:</p>
+<p>While using RGB Music/Public Bot, we may collect certain personally identifiable information to enhance your experience. The personal information collected depends on your interactions and may include, but is not limited to:</p>
 <ul>
   <li>Public Discord Account Information</li>
   <li>Messages in the request system (briefly stored for further processing)</li>
